@@ -1,0 +1,44 @@
+# Page duplicates → canonical pages
+/about-us/                              /about/                     301
+/contact-us/                            /contact/                   301
+/book-a-demo/                           /contact/                   301
+/thank-you/                             /                           301
+/works/                                 /                           301
+
+# PE software page — redirected to about until non-compete clarified with Emma
+/private-equity-software/               /about/                     301
+/services/                              /about/                     301
+/features/                              /about/                     301
+/features-2/                            /about/                     301
+/features-3/                            /about/                     301
+/solutions/                             /about/                     301
+/solution/                              /about/                     301
+/integration/                           /about/                     301
+/integration-2/                         /about/                     301
+/modern-agency-homepage/                /                           301
+/elementor-570/                         /                           301
+/careers/                               /about/                     301
+/joinus/                                /about/                     301
+
+# Blog index → localfirstai.eu
+/blog/                                  https://localfirstai.eu     301
+/blog-2/                                https://localfirstai.eu     301
+
+# Blog posts → localfirstai.eu
+# TODO: update to specific post URLs once migrated
+/machine-learning-finance/              https://localfirstai.eu     301
+/fintech-certified-by-sfa/              https://localfirstai.eu     301
+/questions-for-sff-2022/               https://localfirstai.eu     301
+/intro-private-equity/                  https://localfirstai.eu     301
+/intro-hedge-funds/                     https://localfirstai.eu     301
+/intro-regulations/                     https://localfirstai.eu     301
+/ledger-evolution/                      https://localfirstai.eu     301
+/bearer-instrument-vs-security/         https://localfirstai.eu     301
+/open-source-benefits-challenges-regulations/ https://localfirstai.eu 301
+/why-aprimerose/                        https://localfirstai.eu     301
+/happy-new-year-2023/                   /                           301
+
+# Job listings → about
+/junior-frontend/                       /about/                     301
+/senior-frontend/                       /about/                     301
+/mid-fullstack/                         /about/                     301
