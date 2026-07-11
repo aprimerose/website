@@ -241,7 +241,7 @@ footer a:hover { color: var(--text); }
   }
 }
 
-/* Compliance matrix (confidential compute page) */
+/* Compliance matrix (sovereign compute page) */
 .compliance-row {
   display: flex;
   gap: 1.5rem;

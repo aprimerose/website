@@ -1,3 +1,6 @@
+# Renamed: Confidential Compute → Sovereign Compute
+/confidential-compute/                  /sovereign-compute/         301
+
 # Page duplicates → canonical pages
 /about-us/                              /about/                     301
 /contact-us/                            /contact/                   301
