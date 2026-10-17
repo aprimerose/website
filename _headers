@@ -1,0 +1,11 @@
+# Apex only: no includeSubDomains while legacy subdomains are still proxied.
+/*
+  Strict-Transport-Security: max-age=31536000
+  X-Frame-Options: DENY
+
+# Keep the *.pages.dev copies out of search indexes.
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex
