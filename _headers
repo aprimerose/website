@@ -1,4 +1,4 @@
-# Apex only: no includeSubDomains while legacy subdomains are still proxied.
+# Apex only.
 /*
   Strict-Transport-Security: max-age=31536000
   X-Frame-Options: DENY
