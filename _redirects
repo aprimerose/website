@@ -1,6 +1,9 @@
 # Renamed: Confidential Compute → Sovereign Compute
 /confidential-compute/                  /sovereign-compute/         301
 
+# Page removed 2026-11-05
+/exposure-review/                       /                           301
+
 # Page duplicates → canonical pages
 /about-us/                              /about/                     301
 /contact-us/                            /contact/                   301
